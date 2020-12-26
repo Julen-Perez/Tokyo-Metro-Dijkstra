@@ -1,5 +1,5 @@
 # Dijsktra-Algorithm-Metro-Tokyo
-Basic implementation of Dijsktra Algorithm using the metro stations of Tokyo. Shows the shortest combination between stations to reach a final destination.
+Java Program with GUI in Java String, it finds the shortest path between two given Tokyo Metro stations using Dijkstra algorithm, Coordinates of the stations were set using Google Maps and Haversine  Distance. 
 
 - To execute the GUI we have to run class ImagePanel.java
 - GUI is implemented with Java Swing
